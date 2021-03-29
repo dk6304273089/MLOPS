@@ -1,6 +1,6 @@
 [core]
-    remote = storage
-['remote "storage"']
-    url = gdrive://1am2SNV6IHgYTQ9Iyur-lyMcVieKjv3cQ
-    gdrive_client_id = 554194434248-vss0hcvd6uk2957renk9fbiiqbsjj7v3.apps.googleusercontent.com
-    gdrive_client_secret = kF0GKsEK3vn9akaDwp2spI3x
+    remote = myremote
+['remote "myremote"']
+    url = s3://dheerajaws
+    access_key_id = AKIAY6CYKLNZY2RY6Z43
+    secret_access_key = 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
